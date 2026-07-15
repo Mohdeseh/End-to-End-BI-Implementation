@@ -7,6 +7,8 @@
  Author      : Mohadeseh Mohammadi
  Version     : 1.0
 
+ Skill Level : ⭐ Beginner
+
  Description
  ------------------------------------------------------------------------------------------
  This script is the first step of every Business Intelligence project.
