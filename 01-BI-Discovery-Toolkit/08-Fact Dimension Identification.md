@@ -173,7 +173,9 @@ Questions
 • Which columns uniquely identify business entities?
 
 • Which columns will become foreign keys in the Fact table?
+
 *******************************************************************************************/
+
 /*******************************************************************************************
 # STEP 5
 
