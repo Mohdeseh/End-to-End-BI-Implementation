@@ -2,7 +2,7 @@
 
  BI DISCOVERY TOOLKIT
  ------------------------------------------------------------------------------------------
- File        : 07 - Business Process Discovery.sql
+ File        : 07 - Business Process Discovery.md
 
  Author      : Mohadeseh Mohammadi
  Version     : 1.0
