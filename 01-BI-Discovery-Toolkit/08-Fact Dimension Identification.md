@@ -25,7 +25,9 @@ and which tables should become Dimensions.
 The objective is NOT to create the final model.
 
 The objective is to identify candidates.
+
 *******************************************************************************************/
+
 
 /*******************************************************************************************
 # STEP 1
@@ -66,7 +68,9 @@ Questions
 • Does one row represent an event?
 
 • Does this table continuously grow?
+
 *******************************************************************************************/
+
 
 /*******************************************************************************************
 # STEP 2
