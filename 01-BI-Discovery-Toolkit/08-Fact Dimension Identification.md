@@ -308,12 +308,6 @@ After completing this step, you should know:
 
 ✔ Initial Star Schema
 
-Ready for:
-
-09 - Incremental Load Discovery.md
-
-
----
 
 *******************************************************************************************/
 
